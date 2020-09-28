@@ -3,3 +3,16 @@
     Data Representation -  Assignment 1.1
     XML file that stores data for a library
 -->
+
+<Catalogue>
+    <Book category="technical">
+        <ISBN></ISBN>
+        <Title></Title>
+        <Author></Author>
+    </Book>
+    <Book category="cookery">
+        <ISBN></ISBN>
+        <Title></Title>
+        <Author></Author>
+    </Book>
+</Catalogue>
