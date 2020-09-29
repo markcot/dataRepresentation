@@ -6,13 +6,27 @@
 
 <Catalogue>
     <Book category="technical">
-        <ISBN></ISBN>
-        <Title></Title>
-        <Author></Author>
+        <!-- Data from https://www.manning.com/books/the-quick-python-book-third-edition -->
+        <ISBN>9781617294037</ISBN>
+        <Title>The Quick Python Book, Third Edition</Title>
+        <Author>Nicholas Tollervey</Author>
+    </Book>
+    <Book category="technical">
+        <!-- Data from https://www.amazon.co.uk/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_lpo_14_t_0/257-7708531-5023114?_encoding=UTF8&pd_rd_i=1118008189&pd_rd_r=50ee9b76-b1af-4f29-bd34-ccd0cd2a0202&pd_rd_w=N8wGo&pd_rd_wg=jB9QE&pf_rd_p=7b8e3b03-1439-4489-abd4-4a138cf4eca6&pf_rd_r=689ZBFARY7863M7G01YF&psc=1&refRID=689ZBFARY7863M7G01YF -->
+        <ISBN>9781119038634</ISBN>
+        <Title>HTML and CSS: Design and Build Websites</Title>
+        <Author>Jon Duckett</Author>
     </Book>
     <Book category="cookery">
-        <ISBN></ISBN>
-        <Title></Title>
-        <Author></Author>
+        <!-- Data from https://de.phaidon.com/store/food-cook/the-irish-cookbook-9781838660567/ -->
+        <ISBN>781838660567</ISBN>
+        <Title>The Irish Cookbook</Title>
+        <Author>Jp McMahon</Author>
+    </Book>
+    <Book category="cookery">
+    <!-- Data from https://www.bookdepository.com/Good-Housekeeping-Cookery-Book-Good-Housekeeping-Institute/9781909397859?redirected=true&utm_medium=Google&utm_campaign=Base2&utm_source=IE&utm_content=Good-Housekeeping-Cookery-Book&selectCurrency=EUR&w=AFFPAU96Z6V8Y7A8VCXZ&pdg=pla-293946777986:cmp-10333900495:adg-102993026076:crv-443150513206:pos-:dev-c&gclid=Cj0KCQjwk8b7BRCaARIsAARRTL4tIQxn3Xo-GInHaH3ellTGTmlVNV0iUaeu76wbJDyUMmip8GXq5ioaAqx6EALw_wcB -->
+    <ISBN>9781909397859</ISBN>
+    <Title>Good Housekeeping Cookery Book : The Cook's Classic Companion</Title>
+    <Author>Good Housekeeping Institute</Author>
     </Book>
 </Catalogue>
